@@ -7,7 +7,7 @@ Aim: Move Picasso around to build weapons by stacking combinations of 3 blocks. 
 to fire at the thieves! Don't let the thieves get to your precious paintings!
 
 Start Up Screen:
-+ ![Screenshot](StartUpScreen.png)
++ ![Screenshot](StartUpScreen.PNG)
 
 Game Play:
-+ ![Screenshot](GamePlay.png)
++ ![Screenshot](GamePlay.PNG)
